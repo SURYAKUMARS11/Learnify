@@ -1,8 +1,3 @@
-# intel-oneAPI
-
-#### Team Name - **Phoenix 13**
-#### Problem Statement - **Open Innovation in Education**
-#### Team Leader Email - **saumya.srivastava_cs.aiml21@gla.ac.in**
 
 ## A Brief of the Prototype:
 
